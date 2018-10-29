@@ -1,0 +1,7 @@
+log/
+logdata/
+logging.conf
+loglr_1E-03,conv=1,fc=2/
+loglr_1E-03,conv=2,fc=2/
+loglr_1E-04,conv=1,fc=2/
+loglr_1E-04,conv=2,fc=2/

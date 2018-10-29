@@ -17,7 +17,7 @@ import os.path
 import shutil
 import tensorflow as tf
 
-LOGDIR = "/tmp/mnist_tutorial/"
+LOGDIR = "log"
 LABELS = os.path.join(os.getcwd(), "labels_1024.tsv")
 SPRITES = os.path.join(os.getcwd(), "sprite_1024.png")
 ### MNIST EMBEDDINGS ###
@@ -159,3 +159,4 @@ def main():
 
 if __name__ == '__main__':
   main()
+
